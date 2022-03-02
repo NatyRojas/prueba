@@ -1,0 +1,16 @@
+body {
+  background-color: #000000;
+}
+
+.navbar {
+  opacity:0.5;
+}
+
+.card {
+  background-color: #000000;
+}
+
+.contenedorforma {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
