@@ -7,6 +7,6 @@ $(function () {
  $('[data-toggle="popover"]').popover();
 });
 
-$(".card-header").click(function(){
-  $(".esconder").hide();
+$(".imagen").click(function(){
+  $(".desaparecer").hide();
 });
