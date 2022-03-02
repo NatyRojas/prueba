@@ -1,9 +1,12 @@
 $(function () {
   $('[data-toggle="tooltip"]').tooltip
-})
+});
 
 
+$(function () {
+ $('[data-toggle="popover"]').popover();
+});
 
-//$('html, body').animate({
-  //scrollTop: $('navbar').offset().top
-//},);
+$(".card-header").click(function(){
+  $(".esconder").hide();
+});
